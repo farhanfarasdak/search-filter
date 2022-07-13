@@ -12,6 +12,14 @@ body{
   border: 1px solid grey;
 }
 
-.display-data table{
-  text-align: center;
+.display-data {
+  margin-top: 20px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.my-url {
+  color: blue;
+  cursor: pointer;
 }
